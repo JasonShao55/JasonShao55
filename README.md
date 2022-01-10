@@ -8,6 +8,7 @@
 
 🌱 I’m currently learning machine learning algorithms, fundamental implementations of computer vision, working on Leetcode medium&hard problems.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kaze-1/Kaze-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
