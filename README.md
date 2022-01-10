@@ -1,4 +1,4 @@
-### Hi there 👋 My nanme is Jason SHAO
+### Hi there 👋 My name is Jason SHAO
 
 :books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics and University of Edinburgh.
 
@@ -7,6 +7,10 @@
 
 
 🌱 I’m currently learning machine learning algorithms, fundamental implementations of computer vision, working on Leetcode medium&hard problems.
+
+
+💬 I love learning new things and improving my problem-solving skills.
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaze-1)](https://github.com/anuraghazra/github-readme-stats)
 
