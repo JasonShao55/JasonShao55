@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My nanme is Jason SHAO
+
+:books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics and University of Edinburgh.
+🌱 I’m currently learning machine learning algorithms, fundamental implementations of computer vision, working on Leetcode medium&hard problems
+
 
 <!--
 **Kaze-1/Kaze-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
