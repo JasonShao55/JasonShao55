@@ -1,6 +1,7 @@
 ### Hi there 👋 My nanme is Jason SHAO
 
 :books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics and University of Edinburgh.
+
 🌱 I’m currently learning machine learning algorithms, fundamental implementations of computer vision, working on Leetcode medium&hard problems
 
 
