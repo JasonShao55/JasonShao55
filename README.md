@@ -1,12 +1,14 @@
 ### Hi there 👋 My name is Jason SHAO
 
-:books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics and University of Edinburgh.
+:books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics.
+
+🔭 I have both academic experience at University of Edinburgh and developer experience at SenseTime.
 
 
-⚡ I have high proficiency in C/C++, Python, and MATLAB, plus experience in Android. 
+⚡ I have high proficiency in every toolkit/library embedded in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android. Also I'm proficient in data analysis, maths modeling, algorithm implementation etc.
 
 
-🌱 I’m currently learning machine learning algorithms, fundamental implementations of computer vision, working on Leetcode medium&hard problems.
+🌱 I’m currently learning C++ related development, theories of machine learning algorithms, implementations of computer vision, working on Leetcode medium&hard problems.
 
 
 💬 I love learning new things and improving my problem-solving skills.
