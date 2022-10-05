@@ -2,8 +2,9 @@
 
 :books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics.
 
-🔭 I have both academic experience at University of Edinburgh and developer experience at SenseTime.
+🔭 I have one-semester exchange experience at School of Informatics, University of Edinburgh.
 
+📫 Now I'm working at SenseTime as an development engineer intern.
 
 ⚡ I have high proficiency in every toolkit/library embedded in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android. Also I'm proficient in data analysis, maths modeling, algorithm implementation etc.
 
