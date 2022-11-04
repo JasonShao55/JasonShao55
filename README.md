@@ -6,10 +6,10 @@
 
 📫 Now I'm working at SenseTime as an development engineer intern.
 
-⚡ I have high proficiency in every toolkit/library embedded in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android. Also I'm proficient in data analysis, maths modeling, algorithm implementation etc.
+⚡ I have high proficiency in plentiful toolkits/libraries embedded in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android. Also I'm proficient in data analysis, maths modeling, algorithm implementation etc.
 
 
-🌱 I’m currently learning C++ related development, theories of machine learning algorithms, implementations of computer vision, working on Leetcode medium&hard problems.
+🌱 I’m currently learning C++ related development, theories of machine learning algorithms, implementations of computer vision, working on Leetcode medium&hard problems, doing my internship as a software engineer.
 
 
 💬 I love learning new things and improving my problem-solving skills.
