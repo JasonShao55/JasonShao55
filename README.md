@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jason SHAO
+### Hi there 👋 My name is Jason 
 
 :books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics.
 
