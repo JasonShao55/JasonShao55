@@ -1,15 +1,15 @@
-### Hi there 👋 I'm Kaze, someone loving interesting stuffs and the procedure of solving problems
+### Hi there 👋 I'm Kaze, this is my GitHub profile.
 
-:books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics.
+:books:	I'm currently pursuing a bachelor's degree in computer science at Nanjing, China.
 
-🔭 I have one-semester exchange experience at School of Informatics, University of Edinburgh.
+🔭 I have also studied informatics at University of Edinburgh.
 
-📫 Now I'm working as a full-time software engineer intern, meanwhile completing my study at NUAA.
+📫 I have worked in SenseTime.Inc as a software engineer intern.
 
 ⚡ I have high proficiency in plentiful toolkits/libraries/tools in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android SDK. Also I'm proficient in data science, maths modeling, algorithm implementation, machine learning etc.
 
 
-🌱 I’m currently learning C++ related development, theories of machine learning algorithms, implementations of deep learning methods in computer vision, working on Leetcode medium&hard problems, doing my internship as a software engineer.
+🌱 I’m currently learning web DevOps, theories of machine learning algorithms, implementations of deep learning methods in computer vision, working on Leetcode medium&hard problems, seeking my new internship.
 
 
 💬 I love learning new things and improving my problem-solving skills.
