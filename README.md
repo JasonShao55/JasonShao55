@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jason 
+### Hi there 👋 I'm Kaze, someone loving interesting stuffs and the procedure of solving problems
 
 :books:	I'm currently pursuing CS bachelor's degree in Nanjing University of Aeronautics and Astranautics.
 
