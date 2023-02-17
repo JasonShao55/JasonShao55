@@ -6,10 +6,10 @@
 
 📫 I have worked in SenseTime.Inc as a software engineer intern.
 
-⚡ I have high proficiency in plentiful toolkits/libraries/tools in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android SDK. Also I'm proficient in data science, maths modeling, algorithm implementation, machine learning etc.
+⚡ I have high proficiency in plentiful toolkits/libraries/tools in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android SDK. Also I'm proficient in data science, maths modeling, algorithm implementation, machine learning, deep learning etc.
 
 
-🌱 I’m currently learning web DevOps, theories of machine learning algorithms, implementations of deep learning methods in computer vision, working on Leetcode medium&hard problems, seeking my new internship.
+🌱 I’m currently learning web DevOps, theories of machine learning algorithms, implementations of deep learning methods in computer vision (Long-tailed classification, target detection etc.), working on Leetcode medium&hard problems, seeking my new internship.
 
 
 💬 I love learning new things and improving my problem-solving skills.
