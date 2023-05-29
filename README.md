@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Kaze, this is my GitHub profile.
+### Hi there 👋 I'm Jason, this is my GitHub profile.
 
-:books:	I'm currently pursuing a bachelor's degree in computer science at Nanjing, China.
+:books:	I'm currently pursuing a bachelor's degree in computer science in China.
 
 🔭 I have also studied informatics at University of Edinburgh.
 
