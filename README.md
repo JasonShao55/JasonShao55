@@ -13,6 +13,9 @@
 
 
 💬 I love learning new things and improving my problem-solving skills.
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JasonShao55&count_private=true&show_icons=true" />
+</a>  
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonShao55&hide=issues)
