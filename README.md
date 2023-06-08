@@ -15,7 +15,7 @@
 💬 I love learning new things and improving my problem-solving skills.
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JasonShao55"&PAT_1/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JasonShao55&PAT_1"/>
 </a>  
 
 <!--
