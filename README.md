@@ -4,7 +4,7 @@
 
 🔭 I have also studied informatics at University of Edinburgh.
 
-📫 I have worked in SenseTime.Inc as a software engineer intern.
+📫 I have worked in SenseTime and ASML as a software engineer intern.
 
 ⚡ I have high proficiency in plentiful toolkits/libraries/tools in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android SDK. Also I'm proficient in data science, maths modeling, algorithm implementation, machine learning, deep learning etc.
 
