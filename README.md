@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Jason, this is my GitHub profile.
 
-:books:	I hold a bachelor's degree in computer science in China.
+:books:	I hold a bachelor's degree in computer science.
 
-🔭 I have also studied informatics at University of Edinburgh.
+🔭 I have also studied computer science and artificial intelligence foundations at University of Edinburgh.
 
 📫 I have worked in SenseTime and ASML as a software engineer intern.
 
