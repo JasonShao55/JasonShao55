@@ -6,8 +6,6 @@
 
 📫 I have worked in ASML and SenseTime as a software engineer intern. 
 
-🤖 The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJasonShao55&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ⚡ I have high proficiency in plentiful toolkits/libraries/tools in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android SDK. Also I'm proficient in data science, maths modeling, algorithm implementation, machine learning, deep learning etc. I have had research experience in computer vision (Long-tailed classification, target detection etc.) and NLP (dataset, LLM,etc).
 
 🌱 I’m currently learning web development, DevOps, theories of machine learning algorithms, implementations of deep learning methods in NLP, big models, etc., working on Leetcode medium&hard problems, seeking my new internship or full-time opportunities (Please reach out to me if you have an opportunity for me!).
@@ -84,6 +82,8 @@
 
 
 # 📊 Stats:
+🤖 The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJasonShao55&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ![](https://github-readme-stats.vercel.app/api?username=JasonShao55&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonShao55&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
