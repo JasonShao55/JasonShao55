@@ -4,11 +4,9 @@
 
 🔭 I hold a bachelor's degree in computer science and graduated with honors. I have also studied computer science and artificial intelligence at [University of Edinburgh](https://www.ed.ac.uk/informatics).
 
-📫 I have worked in [ASML](https://www.asml.com/en) and [SenseTime](https://www.sensetime.com/en) as a software engineer intern. 
+📫 I have worked in [ASML](https://www.asml.com/en) and [SenseTime](https://www.sensetime.com/en) as a software engineer intern, and at [BAAI](https://www.baai.ac.cn/english.html) as a data science intern. 
 
-⚡ I have high proficiency in plentiful toolkits/libraries/tools in C/C++, Python, MATLAB, MySQL, plus some experience in Java and Android SDK. Also I'm proficient in data science, maths modeling, algorithm implementation, machine learning, deep learning etc. I have had research experience in computer vision (Long-tailed classification, target detection etc.) and NLP (dataset, LLM,etc).
-
-🌱 I’m currently learning web development, DevOps, theories of machine learning algorithms, implementations of deep learning methods in NLP, big models, etc., working on Leetcode medium&hard problems, seeking my new internship or full-time opportunities (Please reach out to me if you have an opportunity for me!).
+🌱 I’m currently seeking my new internship for 2024 (Please reach out to me if you have an opportunity for me!).
 
 💬 I love learning new things and improving my problem-solving skills.
 
