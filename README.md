@@ -8,7 +8,7 @@
 
 🌱 I’m currently seeking my new internship for 2024 (Please reach out to me if you have an opportunity for me!).
 
-💬 I love learning new things and improving my problem-solving skills.
+💬 I love learning new things and improving my problem-solving skills, and I value the capabilities to optimize solutions for real-world problems.
 
 # 💻 Tech Stack:
 
