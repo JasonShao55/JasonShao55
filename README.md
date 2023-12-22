@@ -6,7 +6,7 @@
 
 📫 I have worked in [ASML](https://www.asml.com/en) and [SenseTime](https://www.sensetime.com/en) as a software engineer intern, and at [BAAI](https://www.baai.ac.cn/english.html) as a data science intern. 
 
-🌱 I’m currently seeking my new internship for 2024 (Please reach out to me if you have an opportunity for me!).
+🌱 I’m currently seeking part-time internship for fall 2024 and full-time opportunities for 2025 (Please reach out to me if you have an opportunity for me!).
 
 💬 I love learning new things and improving my problem-solving skills, and I value the capabilities to optimize solutions for real-world problems.
 
