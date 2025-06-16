@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason
 
-:books:	I'm pursuing a **_Master of Science in Computer Science at [UC San Diego](https://cse.ucsd.edu/)_**.
+:books:	I have a **_Master of Science in Computer Science at [UC San Diego](https://cse.ucsd.edu/)_**.
 
 🔭 I hold a bachelor's degree in computer science and graduated with honors. I have also studied computer science and artificial intelligence at [University of Edinburgh](https://www.ed.ac.uk/informatics).
 
