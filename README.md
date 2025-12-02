@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason
 
-👨‍💻: I worked at GPU Arch, NVIDIA.
+👨‍💻: I worked at **_GPU Arch_, _NVIDIA_**.
 
 :books:	I have a **_Master of Science in Computer Science at [UC San Diego](https://cse.ucsd.edu/)_**.
 
