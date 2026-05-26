@@ -4,9 +4,7 @@
 
 :books:	I have a **_Master of Science in Computer Science at [UC San Diego](https://cse.ucsd.edu/)_**.
 
-🔭 I hold a bachelor's degree in computer science and graduated with honors. I have also studied computer science and artificial intelligence at [University of Edinburgh](https://www.ed.ac.uk/informatics).
-
-📫 I have worked in [ASML](https://www.asml.com/en) and [SenseTime](https://www.sensetime.com/en) as a software engineer intern, and at [BAAI](https://www.baai.ac.cn/english.html) as a data science intern. 
+📫 I have worked in [ASML](https://www.asml.com/en) as a software engineer intern, and at [BAAI](https://www.baai.ac.cn/english.html) as a data science intern. 
 
 🌱 I’m currently seeking internships any time before December 2024, and full-time opportunities after that (Please reach out to me if you have an opportunity for me!).
 
